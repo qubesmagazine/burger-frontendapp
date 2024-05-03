@@ -33,3 +33,14 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+constants.js
+
+slices
+
+CartSlice.js
+
+RestaurantSlice.js
+
+hooks
+
